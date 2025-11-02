@@ -25,5 +25,5 @@ Advanced Queries
 3. Calculate the year-over-year growth rate of total sales.
 4. Calculate the retention rate of customers, defined as the percentage of customers who make another purchase within 6 months of their first purchase.
 5. Identify the top 3 customers who spent the most money in each year.
-
-
+ ## project link
+http://localhost:8888/notebooks/python%2Bsql_ecommrce-Copy1.ipynb
